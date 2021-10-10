@@ -4,3 +4,7 @@ body{
 H1{
     color: rgb(194, 32, 32);
 }
+.p{
+    color: azure;
+    font-size: 30px;
+}
